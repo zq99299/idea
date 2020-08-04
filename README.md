@@ -8,10 +8,7 @@
 - [IntelliJIDEA_ReferenceCard.pdf](./IntelliJIDEA_ReferenceCard.pdf) 英文原版
 - [IntelliJIDEA_ReferenceCard_wrapper_zh.pdf](./IntelliJIDEA_ReferenceCard_wrapper_zh.pdf) 汉化版
   
-  
-windows 和 mac 由于只有快捷键不一样，暂时只汉化了 windows 的说明，
-mac 的说明还未使用汉化好的替换掉，如果有需要，可以下载本文件通过福星阅读器修改该 PDF，然后 PR ，我进行合并
-
-下面是 PDF 的图片，由于不是会员，导出的有水印，有人是会员也可以帮忙导出一个无水印的
+使用的福昕阅读器编辑器的，由于不是会员，所以有水印，有谁可以帮忙去下水印。
+下面是转成的图片，也可以直接保存图片查看
 
 ![](./IntelliJIDEA_ReferenceCard_wrapper_zh.png)
