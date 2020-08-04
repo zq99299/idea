@@ -1,4 +1,4 @@
-# IDEA 快捷键图谱
+# IDEA 最常用默认快捷键-汉化版
 [官方文档- IDEA 快捷键](https://www.jetbrains.com/help/idea/2020.2/mastering-keyboard-shortcuts.html)
 中有一个 [默认的键盘映射参考卡](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf?_ga=2.31254143.1186071345.1596509455-217560053.1584063392)
 ，里面列出了常用的一些快捷键，包含 windows 和 mac 的，认真看了下感觉大部分的确是常用的，由于是英文，就花了几个小时汉化了一下，下面是对应的文件
