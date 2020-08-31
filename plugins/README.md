@@ -14,7 +14,7 @@
   2020 版本才支持，将整个 IDEA 进行汉化
 - `Extra Icons` ： 额外的文件图标扩展
 
-  弥补了 idea 官方某些文件图片不全的问题，又不花里胡哨
+  弥补了 idea 官方某些文件图标不全的问题，又不花里胡哨
 - `Free MyBatis plugin`：mapper 文件与接口映射互相访问
 - `GitToolBox`：git 当前分支提示、是否有更新、提交提示
 - `Key promoter X`：快捷键提示，点击后会显示该功能的快捷键提示
