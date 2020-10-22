@@ -32,3 +32,9 @@
 - `Rainbow Brackets`：彩虹括号，特别清晰的让你识别嵌套代码
 
 	快速使用：安装后，打开文件就能看到嵌套的彩虹括号了
+- `Kite Code AutoComplete: Python,​ JavaScript,​ Go`：代码自动完成
+	
+	 支持的语言：Python,​ JavaScript,​ Go 
+- `aixcoder-code-completer`：代码完成器和代码搜索引擎，下载量超过 138K+
+	
+	AiXcoder 是基于最新的深度学习技术的功能强大的代码完成器和代码搜索引擎。它有可能向您推荐一整套代码，这将有助于您更快地进行编码。AiXcoder 还提供了一个代码搜索引擎，可帮助您在GitHub上搜索API用例。
