@@ -34,7 +34,11 @@
 	快速使用：安装后，打开文件就能看到嵌套的彩虹括号了
 - `Kite Code AutoComplete: Python,​ JavaScript,​ Go`：代码自动完成
 	
-	 支持的语言：Python,​ JavaScript,​ Go 
+	 支持的语言：Python,​ JavaScript,​ Go ，
+	 注意：这个需要在 [kite 官网](https://www.kite.com/) 下载 KiteSetup.exe 本地服务，安装后打开，再在你的编辑器中安装 Kite Code AutoComplete 插件，
+	 代码补全提示就可以生效了。
+	 
+	 Pro 版本支持更多的功能，免费版本出现的某些代码提示补全，不能直接上屏，相当于给你看，但是要你自己敲代码，不过这个提示也很好了。
 - `aixcoder-code-completer`：代码完成器和代码搜索引擎，下载量超过 138K+
 	
 	AiXcoder 是基于最新的深度学习技术的功能强大的代码完成器和代码搜索引擎。它有可能向您推荐一整套代码，这将有助于您更快地进行编码。AiXcoder 还提供了一个代码搜索引擎，可帮助您在GitHub上搜索API用例。
